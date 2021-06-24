@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Exception/src/excepton&apos; to &apos;exception&apos;" description="Rename resource &apos;excepton&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/excepton" name="exception" stamp="1553697392806" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Exception/src/exception/Exception.java&apos; to &apos;trycatch.java&apos;" description="Rename resource &apos;Exception.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/exception/Exception.java" name="trycatch.java" stamp="1553697703333" updateReferences="true"/>
+</session>

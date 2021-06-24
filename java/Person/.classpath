@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/22_HomeWork01_HaDucPhuoc"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/22_HomeWork02_HaDucPhuoc"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/22_HomeWork03_HaDucPhuoc"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/22_Homework04_HaDucPhuoc"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/22_Homework05_HaDucPhuoc"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/22_Homework06_HaDucPhuoc"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/arithmetic"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Circle"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Date"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Exception"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/file"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/HePT"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/IndividualProject_HaDucPhuoc_CMUCS303_22.doc"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Rectangle"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Shape"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/StringTest"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Teacher"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/test"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Test3"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
